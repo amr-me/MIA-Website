@@ -1,5 +1,5 @@
 # MIA-Website
-The Official webite for Made in Alex robotics team
+The Official website for Made in Alex robotics team
 
 This is a website for MIA robotics team, based on an open source bootstrap template
 
